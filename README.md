@@ -33,6 +33,8 @@
   - [11725](https://www.acmicpc.net/problem/11725)
   - [31575](https://www.acmicpc.net/problem/31575)
   - [2705](https://www.acmicpc.net/problem/2705)
+  - [2606](https://www.acmicpc.net/problem/2606)
+  - [9020](https://www.acmicpc.net/problem/9020)
 <br>
 
 ## 📘 DOCS
