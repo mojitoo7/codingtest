@@ -28,7 +28,7 @@
 <br>
 
 ## 📘 DOCS
-- [진행 상황]
+- [진행 상황](https://github.com/mojitoo7/codingtest/blob/7af5f420d393f4dffd5959e9d3409d89a272755f/%EC%A7%84%ED%96%89%EC%83%81%ED%99%A9.md)
 <br>
 
 ## 📘 폴더 구조
