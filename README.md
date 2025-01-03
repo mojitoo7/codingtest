@@ -27,6 +27,10 @@
   - [1874](https://www.acmicpc.net/problem/1874)
 <br>
 
+## 📘 DOCS
+- [진행 상황]
+<br>
+
 ## 📘 폴더 구조
 [이름] / [문제번호]
 <br><br>
