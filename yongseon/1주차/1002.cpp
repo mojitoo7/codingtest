@@ -25,6 +25,7 @@ int main() {
 		distance = r2 + r1;
 		absdist = abs(r2 - r1);
 
+		absdist = pow(absdist, 2);
 		distance = pow(distance, 2);
 
 
@@ -34,28 +35,24 @@ int main() {
 			}
 			else {
 				buffer << "0" << "\n";
-
 			}
 		}
 		else {
 
-			if (dist > distance || dist) {
-				buffer << "2" << "\n";
+			if (dist > distance || dist < absdist) {
+				buffer << "0" << "\n";
 
 			}
-			else if (dist == distance || dist = absdist) {
+			else if (dist == distance || dist == absdist) {
 				buffer << "1" << "\n";
 
 			}
 			else {
-				buffer << "0" << "\n";
+				buffer << "2" << "\n";
 			}
 		}
 	}
 
-
 	cout << buffer.str() << endl;
-
-
 
 }
