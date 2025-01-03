@@ -25,12 +25,14 @@
   - [1541](https://www.acmicpc.net/problem/1541)
   - [1654](https://www.acmicpc.net/problem/1654)
   - [1874](https://www.acmicpc.net/problem/1874)
-### 2주차 2024-12-27(금) ~ 2025-01-03(금) 
+### 3주차 2025-01-04(토) ~ 2025-01-10(금) 
 - **백준** 
   - [1927](https://www.acmicpc.net/problem/1927)
   - [12865](https://www.acmicpc.net/problem/12865)
   - [2630](https://www.acmicpc.net/problem/2630)
   - [11725](https://www.acmicpc.net/problem/11725)
+  - [31575](https://www.acmicpc.net/problem/31575)
+  - [2705](https://www.acmicpc.net/problem/2705)
 <br>
 
 ## 📘 DOCS
