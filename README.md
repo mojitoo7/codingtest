@@ -35,6 +35,16 @@
   - [2705](https://www.acmicpc.net/problem/2705)
   - [2606](https://www.acmicpc.net/problem/2606)
   - [9020](https://www.acmicpc.net/problem/9020)
+### 4주차 2025-01-11(토) ~ 2025-01-17(금) 
+- **백준** 
+  - [7662](https://www.acmicpc.net/problem/7662)
+  - [5397](https://www.acmicpc.net/problem/5397)
+  - [1931](https://www.acmicpc.net/problem/1931)
+  - [1629](https://www.acmicpc.net/problem/1629)
+  - [5430](https://www.acmicpc.net/problem/5430)
+  - [6064](https://www.acmicpc.net/problem/6064)
+  - [1339](https://www.acmicpc.net/problem/1339)
+  - [16235](https://www.acmicpc.net/problem/16235)
 <br>
 
 ## 📘 DOCS
