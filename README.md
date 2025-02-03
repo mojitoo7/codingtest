@@ -45,7 +45,7 @@
   - [6064](https://www.acmicpc.net/problem/6064)
   - [1339](https://www.acmicpc.net/problem/1339)
   - [16235](https://www.acmicpc.net/problem/16235)
-### 5주차 2025-01-18(토) ~ 2025-01-24(금)
+### 5주차 2025-01-18(토) ~ 2025-01-31(금)
 - **백준**
   - [14503](https://www.acmicpc.net/problem/14503)
   - [14891](https://www.acmicpc.net/problem/14891)
@@ -55,6 +55,16 @@
   - [1932](https://www.acmicpc.net/problem/1932)
   - [14426](https://www.acmicpc.net/problem/14426)
   - [15903](https://www.acmicpc.net/problem/15903)
+### 6주차 2025-02-01(토) ~ 2025-02-14(금)
+- **백준**
+  - [2564](https://www.acmicpc.net/problem/2564)
+  - [2981](https://www.acmicpc.net/problem/2981)
+  - [2072](https://www.acmicpc.net/problem/2072)
+  - [2239](https://www.acmicpc.net/problem/2239)
+  - [15311](https://www.acmicpc.net/problem/15311)
+  - [9663](https://www.acmicpc.net/problem/9663)
+  - [11062](https://www.acmicpc.net/problem/11062)
+  - [17298](https://www.acmicpc.net/problem/17298)
 <br>
 
 ## 📘 DOCS
