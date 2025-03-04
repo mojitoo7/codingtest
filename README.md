@@ -55,7 +55,7 @@
   - [1932](https://www.acmicpc.net/problem/1932)
   - [14426](https://www.acmicpc.net/problem/14426)
   - [15903](https://www.acmicpc.net/problem/15903)
-### 6주차 2025-02-01(토) ~ 2025-02-14(금)
+### 6주차 2025-02-01(토) ~ 2025-02-14(금)(개강일정으로 인한 조기종료)
 - **백준**
   - [2564](https://www.acmicpc.net/problem/2564)
   - [2981](https://www.acmicpc.net/problem/2981)
